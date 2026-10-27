@@ -1,0 +1,6 @@
+{
+  "name": "Global Cricket Chairman Pro 2026",
+  "description": "Executive cricket board administration and tactical match simulation game. Lead world cricket governing bodies, manage multi-million dollar broadcast deals, squad contracts, stadium infrastructure, and direct high-stakes match tactics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
